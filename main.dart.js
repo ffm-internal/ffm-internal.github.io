@@ -54968,7 +54968,7 @@ if(q==null)return null
 s=$.eT()
 r=q.b
 q=q.e
-return s.PP(A.a([".jpg",".jpeg",".png",".gif",".webp"],t.s),r,q,5)},
+return s.PP(A.a([".jpg",".jpeg",".png",".gif",".webp"],t.s),r,q,100)},
 a7s(a){var s,r,q,p,o=this,n=null,m="thumbnail",l="videoType",k="course",j="topic"
 A.y("=== setEditData called ===")
 A.y("Chapter data received: "+a.k(0))
@@ -55703,7 +55703,7 @@ if(q==null)return null
 s=$.eT()
 r=q.b
 q=q.e
-return s.PP(A.a([".jpg",".jpeg",".png",".gif",".webp"],t.s),r,q,5)},
+return s.PP(A.a([".jpg",".jpeg",".png",".gif",".webp"],t.s),r,q,100)},
 eC(a){var s=this,r=s.ax,q=r.J$=$.ay()
 r.I$=0
 r=s.ay
@@ -56670,7 +56670,7 @@ if(q==null)return null
 s=$.eT()
 r=q.b
 q=q.e
-return s.PP(A.a([".jpg",".jpeg",".png",".gif",".webp"],t.s),r,q,50)},
+return s.PP(A.a([".jpg",".jpeg",".png",".gif",".webp"],t.s),r,q,100)},
 rs(a,b){return this.a6Z(a,b)},
 a6Z(a7,a8){var s=0,r=A.v(t.H),q,p=2,o=[],n=this,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6
 var $async$rs=A.q(function(a9,b0){if(a9===1){o.push(b0)
